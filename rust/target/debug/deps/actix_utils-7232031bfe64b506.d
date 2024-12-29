@@ -1,0 +1,10 @@
+D:\PROGRAMACAO\PROJECTS_RUST\to-do-rust\rust\target\debug\deps\libactix_utils-7232031bfe64b506.rmeta: C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src/lib.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\counter.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\mod.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\either.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\poll_fn.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\ready.rs
+
+D:\PROGRAMACAO\PROJECTS_RUST\to-do-rust\rust\target\debug\deps\actix_utils-7232031bfe64b506.d: C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src/lib.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\counter.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\mod.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\either.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\poll_fn.rs C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\ready.rs
+
+C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src/lib.rs:
+C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\counter.rs:
+C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\mod.rs:
+C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\either.rs:
+C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\poll_fn.rs:
+C:\Users\silva\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-utils-3.0.1\src\future\ready.rs:
