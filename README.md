@@ -20,6 +20,8 @@ O que você aprenderá:
 # Imagem do Projeto
 
 ![Imagem do Projeto](./public/print.png)
+![Imagem com Task](./public/tasks.png)
+![Imagem em branco](./public/not-task.png)
 
 # Configuração inicial
 

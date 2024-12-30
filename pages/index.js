@@ -38,7 +38,6 @@ const index = () => {
     const fetchTodos = async () => {
         try {
             const response = await axios.get("http://127.0.0.1:8080/todos");
-            console.log(response);
             setTodos(response.data);
             setTodosCopy(response.data);
         } catch (e) {
