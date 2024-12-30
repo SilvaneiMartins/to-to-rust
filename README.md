@@ -17,6 +17,10 @@ O que você aprenderá:
 -   Buscando dados do backend usando React Query
 -   Gerenciando o estado do aplicativo e a IU com Next.js
 
+# Imagem do Projeto
+
+![Imagem do Projeto](./public/print.png)
+
 # Configuração inicial
 
 ## Instalar Vs Editor de Código
